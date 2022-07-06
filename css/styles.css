@@ -1,0 +1,79 @@
+/**********************TAG SELECTORS***************************/
+body {
+  background-color: #F9F7F7;
+  color: #3F72AF;
+  font-family: sans-serif;
+}
+
+hr {
+  border-style: solid;
+  color: #F9F7F7;
+  border-width: 8px;
+  border-color: #F9F7F7;
+  width: 100%;
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #112D4E;
+}
+
+th {
+  font-size: 16;
+  font-family: sans-serif;
+  color: #112D4E;
+}
+
+h4 {
+  font-family: sans-serif;
+  color: #112D4E;
+}
+
+a:link {
+  color: #3F72AF;
+}
+
+a:visited {
+  color: #3F72AF;
+}
+
+a:hover {
+  color: #0000FF;
+}
+
+input:focus {
+  background-color: #DBE2EF;
+}
+
+textarea:focus {
+  background-color: #DBE2EF;
+}
+
+div {
+  background-color: #DBE2EF;
+}
+
+/**********************CLASS SELECTORS***************************/
+.images {
+  border-radius: 25% 10%;
+}
+
+.noshow {
+  display: none;
+  align-items: center;
+  width: 100%;
+  background-color: #DBE2EF;
+}
+
+.heading:hover .noshow {
+  display: block;
+}
+
+.dotted {
+  height: 0;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #DBE2EF;
+  border-width: 8px;
+  width: 5%;
+}
