@@ -2,7 +2,7 @@
 body {
   background-color: #F9F7F7;
   color: #3F72AF;
-  font-family: sans-serif;
+  font-family: 'Merriweather', serif;
 }
 
 hr {
@@ -14,18 +14,17 @@ hr {
 }
 
 h1 {
-  font-family: sans-serif;
+  font-family: 'Patua One', cursive;
   color: #112D4E;
 }
 
 th {
   font-size: 16;
-  font-family: sans-serif;
   color: #112D4E;
 }
 
 h4 {
-  font-family: sans-serif;
+  font-family: 'Patua One', cursive;
   color: #112D4E;
 }
 
